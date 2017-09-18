@@ -6,8 +6,6 @@ __pycache__/
 # C extensions
 *.so
 *.DS_Store
-*Labs/Lab2_Worked_EDA/.DS_Store
-*Lectures/.DS_Store
 
 # Distribution / packaging
 .Python
